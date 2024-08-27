@@ -21,10 +21,10 @@ width=50%"/>
 | Nombre |Código|
 |:-------:|:----------:|
 |||
-|Lopez Huaman, Rodrigo Adrian|U202212338|
-|Elías Sanchez, Harold Miguel|U202212684|
 |Alcántara Cruz, Rodrigo Alonso|U202216698|
 |Agama Espinoza, Eric Fabrizio|U202213358|
+|Elías Sanchez, Harold Miguel|U202212684|
+|Lopez Huaman, Rodrigo Adrian|U202212338|
 |Meneses Arevalo, Victor Manuel|U202212191|
 
 
@@ -35,6 +35,11 @@ width=50%"/>
 ### Project Report Collaboration Insights
 
 ### Student Outcome
+|Criterio Especifico|Acciones Realizadas|Conclusiones|
+|-------------------|-------------------|------------|
+|Comunica oralmente con <br>efectividad a diferentes <br>rangos de audiencia|**Rodrigo Alcántara**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Eric Agama**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Harold Elías**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Rodrigo Lopez**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Victor Meneses**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>|[Conclusiones]|
+|Comunica por escrito con<br>efectividad a diferentes rangos<br>de audiencia|**Rodrigo Alcántara**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Eric Agama**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Harold Elías**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Rodrigo Lopez**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>**Victor Meneses**<br>TB1:<br>[Texto]<br>TP1:<br>[Texto]<br>TB2:<br>[Texto]<br>TF:<br>[Texto]<br>|[Conclusiones]|
+
 
 ## Contenido
 
