@@ -31,6 +31,9 @@ width=50%"/>
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
 
 ### Registro de Versiones del Informe
+| Versión   | Fecha       | Autor      | Descripción de Modificación                                                                      | 
+|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
+|           |             |            |                                                                                                  |
 
 ### Project Report Collaboration Insights
 
@@ -43,7 +46,7 @@ width=50%"/>
 
 ## Contenido
 
-# Capítulo I: Introducción
+- [Introducción](#introducción)
 - 1.1. Startup Profile
   - 1.1.1. Descripción de la Startup
   - 1.1.2. Perfiles de integrantes del equipo
@@ -137,3 +140,4 @@ width=50%"/>
 
 # Anexos
 
+# Introducción
