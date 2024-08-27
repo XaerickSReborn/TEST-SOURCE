@@ -46,7 +46,7 @@ width=50%"/>
 
 ## Contenido
 
-- [Introducción](#introducción)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
 - 1.1. Startup Profile
   - 1.1.1. Descripción de la Startup
   - 1.1.2. Perfiles de integrantes del equipo
@@ -140,4 +140,4 @@ width=50%"/>
 
 # Anexos
 
-# Introducción
+# Capítulo I: Introducción
