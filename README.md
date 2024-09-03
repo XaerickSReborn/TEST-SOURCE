@@ -162,6 +162,8 @@ width=50%"/>
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ### 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+Nombre
+Edad
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
